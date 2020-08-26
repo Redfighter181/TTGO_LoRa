@@ -1,4 +1,5 @@
-# Test2
+# TTlo32
+ttgo lora32
 
-Einfacher Ferbindungstest mit Buzzer Singalton
-Buzzer Pin = 2
+Einfacher Ferbindungstest mit dem TTgo LoRa32 V1 Board mit Buzzer Singalton
+Enpfang Board: Buzzer Pin = 2
